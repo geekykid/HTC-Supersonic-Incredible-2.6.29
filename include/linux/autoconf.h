@@ -1,7 +1,7 @@
 /*
  * Automatically generated C config: don't edit
  * Linux kernel version: 2.6.29
- * Fri May 21 22:24:24 2010
+ * Sun May 30 17:52:36 2010
  */
 #define AUTOCONF_INCLUDED
 #define CONFIG_VIDEO_V4L1_COMPAT 1
@@ -110,7 +110,6 @@
 #define CONFIG_VFAT_FS 1
 #define CONFIG_MTD_CMDLINE_PARTS 1
 #define CONFIG_MSM_AMSS_VERSION_3200 1
-#define CONFIG_LOCALVERSION_AUTO 1
 #define CONFIG_SLHC 1
 #define CONFIG_EMBEDDED 1
 #define CONFIG_WIFI_NVS_PROC_CREATE 1
@@ -348,7 +347,7 @@
 #define CONFIG_VIRT_TO_BUS 1
 #define CONFIG_MD 1
 #define CONFIG_MSM_MDP31 1
-#define CONFIG_LOCALVERSION ""
+#define CONFIG_LOCALVERSION "-a2443432"
 #define CONFIG_ZLIB_INFLATE 1
 #define CONFIG_INIT_ENV_ARG_LIMIT 32
 #define CONFIG_SUSPEND_FREEZER 1
